@@ -63,19 +63,19 @@ def Demo_the_sep_parameter():
     return
 
 if __name__ =="__main__":
-    #String_Quoting()
+    String_Quoting()
     
-    #String_Escaping()
+    String_Escaping()
 
-    #TypeConversion_Casting()
+    TypeConversion_Casting()
 
-    #Input_Concatenation()
+    Input_Concatenation()
 
-    #Using_fstrings()
+    Using_fstrings()
 
-    #Math()
+    Math()
 
-    #Currency_Formatting()
+    Currency_Formatting()
 
     Demo_the_end_parameter()
 
