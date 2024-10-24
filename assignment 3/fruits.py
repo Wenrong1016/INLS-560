@@ -1,6 +1,6 @@
 fruits = ['apple', 'banana', 'mango', 'watermelon']
 
-for f in fs:
+for f in fruits:
     if f == 'banana':
         print(f.upper())
     else:
